@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+}
+
+.navbar-brand {
+    padding-left:10px;
+}
+
+.nav-links > li {
+    list-style: none;
+    padding-left:5px;
+    padding-right: 5px;
+}
+
+img {
+    max-width:75%;
+    height:auto;
+}
+
+li > a { 
+    text-decoration: none;
+    color: inherit; 
+} 
