@@ -1,5 +1,11 @@
+header {
+    padding: 2vh;
+}
+
 body {
-    background-color: white;
+    height: 100vh;
+    margin: 0;
+    background-color: #F5F3F2;
 }
 
 .navbar-brand {
