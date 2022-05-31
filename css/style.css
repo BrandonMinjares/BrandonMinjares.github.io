@@ -21,3 +21,7 @@ li > a {
     text-decoration: none;
     color: inherit; 
 } 
+
+img {
+    border-radius: 50%;
+  }
